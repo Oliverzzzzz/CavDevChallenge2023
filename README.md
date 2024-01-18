@@ -1,4 +1,4 @@
-# This project used to be private, so it's being pushed once here.
+# This project used to be private. It's being pushed here for public to view.
 
 
 # CAV SIL Environment
